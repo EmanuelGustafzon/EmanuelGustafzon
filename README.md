@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Emanuel
 
-## I love the feeling of opening a blanc page in visual studio and build a feature from idea to reality. I love the process of working on a solution I have not encountered before and not have all the knowledge for. I enjoy the process of researching, brainstorming and diving deeper to be able to solve that problem. 
+### I love the feeling of opening a blanc page in visual studio and build a feature from idea to reality. I love the process of working on a solution I have not encountered before and do not have all the knowledge for. I enjoy the process of researching, brainstorming and diving deeper to be able to solve that problem. 
 
 I learn and develop my skills everyday and I am capable of building solutions from idea to deployment. I enjoy writing logic and can work fullstack both frontend and backend.
 
