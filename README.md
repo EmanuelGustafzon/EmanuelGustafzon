@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Emanuel
+
+## I love the feeling of opening a blanc page in visual studio and build a feature from idea to reality. 
+## I love the process of working on a solution I have not encountered before and not have all the knowledge for.
+## I enjoy the process of researching, brainstorming and diving deeper to be able to solve that problem. 
+
+
 
 <!--
 **EmanuelGustafzon/EmanuelGustafzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
