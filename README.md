@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Emanuel
 
-### I love the feeling of opening a blanc page in visual studio and build a feature from idea to reality. I love the process of working on a solution I have not encountered before and do not have all the knowledge for. I enjoy the process of researching, brainstorming and diving deeper to be able to solve that problem. 
+### I love the feeling of opening a blank page in Visual Studio and building a feature from idea to reality. I enjoy the process of working on solutions I haven't encountered before, where I don't possess all the necessary knowledge. Researching, brainstorming, and delving deeper to solve problems is where I find my stride.
 
-I learn and develop my skills everyday and I am capable of building solutions from idea to deployment. I enjoy writing logic and can work fullstack both frontend and backend.
+Every day, I strive to learn and develop my skills further, and I'm capable of crafting solutions from concept to deployment. I particularly enjoy writing logic and can seamlessly transition between frontend and backend development.
 
-My main focus has been TypeScript so I feel comfortable with the language. I recently discovered that I also enjoy C# with entity framework and Azure as cloud provider. 
+My primary focus has been TypeScript, a language I feel very comfortable with. Recently, I've discovered a newfound passion for C# with Entity Framework and Azure as my cloud provider.
 
-I studied at Code Institue during 2022 and have just kept on coding since. 
+I studied at Code Institute in 2022 and have been coding continuously ever since.
 
-currently looking for a job as a devloper so feel free to contact me at: emanuel.gustafzon@gmail.com
+I'm currently seeking job opportunities as a developer, so please feel free to contact me at emanuel.gustafzon@gmail.com.
 
 <!--
 **EmanuelGustafzon/EmanuelGustafzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
