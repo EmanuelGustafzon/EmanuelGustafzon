@@ -4,7 +4,7 @@
 
 Every day, I strive to learn and develop my skills further, and I'm capable of crafting solutions from concept to deployment. I particularly enjoy writing logic and can seamlessly transition between frontend and backend development.
 
-My primary focus has been TypeScript, a language I feel very comfortable with. Recently, I've discovered a newfound passion for C# with Entity Framework and Azure as my cloud provider.
+My primary focus has been TypeScript, a language I feel comfortable with. Recently, I've discovered a newfound passion for C# with Entity Framework and Azure as my cloud provider. I have also used python during my studies.
 
 I studied at Code Institute in 2022 and have been coding continuously ever since.
 
