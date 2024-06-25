@@ -4,7 +4,7 @@
 
 Every day, I strive to learn and develop my skills further, and I'm capable of crafting solutions from concept to deployment. I particularly enjoy writing logic and can seamlessly transition between frontend and backend development.
 
-My favorite languages are TypeScript and C#, The syntax and ecosystems are very enjoyble in my opinion. I have explored different languages like C, Python and Kotlin and I enjoy learning new languages because it broaders my perspective. 
+My favorite languages are TypeScript and C#, The syntax and ecosystems are very enjoyble in my opinion. I have explored different programming languages and I enjoy learning new ones because it broadens my perspective. 
 
 I studied at Code Institute in 2022 and have been coding continuously ever since. This austumn I will study at EC Utbildningen to become a .net developer.
 
