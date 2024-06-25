@@ -4,9 +4,9 @@
 
 Every day, I strive to learn and develop my skills further, and I'm capable of crafting solutions from concept to deployment. I particularly enjoy writing logic and can seamlessly transition between frontend and backend development.
 
-My primary focus has been TypeScript, a language I feel comfortable with. Recently, I've discovered a newfound passion for C# with Entity Framework and Azure as my cloud provider. I have also used python during my studies.
+My favorite languages are TypeScript and C#, The syntax and ecosystems are very enjoyble in my opinion. I have explored different languages like C, Python and Kotlin and I enjoy learning new languages because it broaders my perspective. 
 
-I studied at Code Institute in 2022 and have been coding continuously ever since.
+I studied at Code Institute in 2022 and have been coding continuously ever since. This austumn I will study at EC Utbildningen to become a .net developer.
 
 I'm currently seeking job opportunities as a developer, so please feel free to contact me at emanuel.gustafzon@gmail.com.
 
